@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="288bd52f-809a-45b4-80a2-cb4f29966185" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/gat/spiderwebgame/mos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/gat/spiderwebgame/spider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/gat/spiderwebgame/spiderWeb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,52 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="402">
-                  <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assets/gat/spiderwebgame/spider.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="201">
-                  <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assets/gat/demo01.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="101" selection-start-line="101" selection-end-line="101" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assets/gat/spiderwebgame/spider.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="103">
-                  <caret line="213" lean-forward="true" selection-start-line="204" selection-start-column="4" selection-end-line="213" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,6 +36,20 @@
         <option value="$PROJECT_DIR$/assets/gat/demo01.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/gat/spiderwebgame/spider.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0001-Examples-in-Every-Chapter.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0002-A-Simple-HTML-Document.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0003-W3Schools-Online-Editor.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0004-HTML-Headings.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0005-HTML-Paragraphs.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0006-HTML-links.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0007-HTML-img.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0008-HTML-Buttons.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0009-HTML-List.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0010-HTML-Breaking-Line.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0011-The-href-Attribute.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0012-The-src-Attribute.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0013-The-style-Attribute.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0014-The-title-Attribute.html" />
       </list>
     </option>
   </component>
@@ -96,16 +60,15 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="512" />
-    <option name="width" value="512" />
-    <option name="height" value="728" />
+    <option name="y" value="374" />
+    <option name="width" value="1025" />
+    <option name="height" value="354" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,12 +92,21 @@
               <item name="sample" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="gat" type="462c0819:PsiDirectoryNode" />
-              <item name="spiderwebgame" type="462c0819:PsiDirectoryNode" />
+              <item name="w3schools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="gat" type="462c0819:PsiDirectoryNode" />
+              <item name="w3schools" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,11 +119,12 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\webprojects\sample\assets\gat" />
+      <recent name="F:\webprojects\sample" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\webprojects\sample\assets\gat\spiderwebgame" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\webprojects\sample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,11 +151,13 @@
       <updated>1554396247115</updated>
       <workItem from="1554396248912" duration="1507000" />
       <workItem from="1554469649013" duration="3326000" />
+      <workItem from="1554720499545" duration="616000" />
+      <workItem from="1555006373299" duration="2213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4833000" />
+    <option name="totallyTimeSpent" value="7662000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,7 +171,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.249501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22255489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,20 +200,6 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/gat/demo01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Web Programing Learning/جاوا اسکریپت ، سون لرن، لقمان آوند پارت اول/جاوا اسکریپت ، سون لرن، لقمان آوند پارت دوم/common/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -248,8 +209,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/gat/spiderwebgame/spider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="209">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/demo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0003-W3Schools-Online-Editor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0002-A-Simple-HTML-Document.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0001-Examples-in-Every-Chapter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0004-HTML-Headings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0005-HTML-Paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0006-HTML-links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0007-HTML-img.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0008-HTML-Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0010-HTML-Breaking-Line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0011-The-href-Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="6" selection-start-line="6" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0009-HTML-List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0014-The-title-Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0013-The-style-Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0012-The-src-Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
