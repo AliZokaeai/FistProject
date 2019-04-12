@@ -14,7 +14,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0030-HTML-Different-text-formats.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0031-HTML-Quotation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="17" column="111" lean-forward="true" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +75,23 @@
         <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0012-The-src-Attribute.html" />
         <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0013-The-style-Attribute.html" />
         <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0014-The-title-Attribute.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0015-Bigger-Heading.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0016-HTML-Horizental-Rules.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/img/0017-Paragraphs.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0018-HTML-Display-Paragraph.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0019-End-Tag-paragraphs.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0020-Pre-tags.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0021-HTML-Styles.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0022-HTML-Background-color.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0023-HTML-Paragraph-styles.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0024-HTML-Fonts.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0025-HTML-Text-Size.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0026-HTML-Text-Align.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0027-HTML-Text-fromating.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0028-HTML-Bold-format.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0029-HTML-Italic-format.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0030-HTML-Different-text-formats.html" />
+        <option value="$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0031-HTML-Quotation.html" />
       </list>
     </option>
   </component>
@@ -60,15 +102,16 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="374" />
-    <option name="width" value="1025" />
-    <option name="height" value="354" />
+    <option name="y" value="343" />
+    <option name="width" value="1024" />
+    <option name="height" value="385" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,11 +145,19 @@
               <item name="w3schools" type="462c0819:PsiDirectoryNode" />
               <item name="HTMLs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="gat" type="462c0819:PsiDirectoryNode" />
+              <item name="w3schools" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLs" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,12 +170,13 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\webprojects\sample\assets\gat" />
-      <recent name="F:\webprojects\sample" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\webprojects\sample\assets\gat\spiderwebgame" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\webprojects\sample\assets\gat\w3schools\HTMLs" />
+      <recent name="F:\webprojects\sample\assets\gat" />
+      <recent name="F:\webprojects\sample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,11 +205,12 @@
       <workItem from="1554469649013" duration="3326000" />
       <workItem from="1554720499545" duration="616000" />
       <workItem from="1555006373299" duration="2213000" />
+      <workItem from="1555048155979" duration="6041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7662000" />
+    <option name="totallyTimeSpent" value="13703000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,7 +224,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22255489" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28842315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,6 +379,158 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0015-Bigger-Heading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0016-HTML-Horizental-Rules.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0017-Paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0018-HTML-Display-Paragraph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0019-End-Tag-paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0020-Pre-tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0021-HTML-Styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0022-HTML-Background-color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0023-HTML-Paragraph-styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0024-HTML-Fonts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0025-HTML-Text-Size.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0026-HTML-Text-Align.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0027-HTML-Text-fromating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0028-HTML-Bold-format.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0029-HTML-Italic-format.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0030-HTML-Different-text-formats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/gat/w3schools/HTMLs/0031-HTML-Quotation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="111" lean-forward="true" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="111" />
         </state>
       </provider>
     </entry>
