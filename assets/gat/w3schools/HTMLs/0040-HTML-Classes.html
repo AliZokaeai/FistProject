@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML CLasses</title>
+    <style>
+        .cities{
+            background-color: black;
+            color: white;
+            margin: 20px;
+            padding: 20px;
+        }
+        span.note{
+            font-size: 120%;
+            color:red;
+        }
+        .city{
+            background-color: tomato;
+            color: white;
+            padding: 10px;
+        }
+        .main{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="cities">
+    <h2>London</h2>
+    <p>London is the capital of england.</p>
+</div>
+<div class="cities">
+    <h2>Paris</h2>
+    <p>Paris is the capital of france</p>
+
+</div>
+<div class="cities">
+    <h2>Tokyo</h2>
+    <p>Tokyo is the capital of japan.</p>
+</div>
+<hr>
+<h1>My <span class="note">Important</span>Heading</h1>
+<p>This is some <span class="note">Important</span>text.</p>
+<hr>
+<h2 class="city">London</h2>
+<p>London is the capital of england.</p>
+<h2 class="city">Paris</h2>
+<p>Paris is the capital of france</p>
+<h2 class="city">Tokyo</h2>
+<p> Tokyo is capital of Japan.</p>
+<hr>
+<h2>Multiple Classes</h2>
+<p>All three header have the class name "city". in additon, london also have the class name "main", which center-aligns the text.</p>
+<h2 class="city main">london</h2>
+<h2 class="city">Paris</h2>
+<h2 class="city">Tokyo</h2>
+<hr>
+<H2>Same Class, Different tag</H2>
+<p>Even if the two elements fo not have the same tag name, they can have the same class name, and get the same styling:</p>
+<h2 class="city">paris</h2>
+<p class="city">Paris is the capital of france.</p>
+<hr>
+<h2> Using the class Attribute in JavaScript</h2>
+<p>Click the button, to hide all elements with the class name "city", whit JavaScript:</p>
+<button onclick="myFunction()">Hide elements</button>
+<h2 class="city">London</h2>
+<p>London is capital of england.</p>
+<h2 class="city">Paris</h2>
+<p>Paris is the capital of france</p>
+<h2 class="city">Tokyo</h2>
+<p>Tokyo is the capital of japan</p>
+<script>
+    function myFunction(){
+        var x=document.getElementsByClassName("city");
+        for(var i=0; i<x.length; i++){
+            x[i].style.display="none"
+        }
+    }
+</script>
+</body>
+</html>
